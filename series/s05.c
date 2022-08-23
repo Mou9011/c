@@ -1,4 +1,4 @@
-//1+x+x/2!+x^3/3!+....x^n/n!
+//1+x+x^2/2!+x^3/3!+....x^n/n!
 
 #include<stdio.h>
 #include<math.h>
